@@ -14,6 +14,3 @@
 * **Web Dashboard:** Embedded HTML/CSS/JS hosted locally in ESP32 AP Mode (`192.168.4.1`)
 * **Motion Control:** Non-blocking stepped angle interpolation with software joint limits
 
-## 📸 Web Control Interface
-
-![Web Dashboard](screenshot.png)
